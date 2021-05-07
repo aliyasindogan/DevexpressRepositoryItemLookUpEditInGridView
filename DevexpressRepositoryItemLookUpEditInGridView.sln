@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevexpressRepositoryItemLookUpEditInGridView", "DevexpressRepositoryItemLookUpEditInGridView\DevexpressRepositoryItemLookUpEditInGridView.csproj", "{185E0354-7550-4E57-BA10-4B7067ACE0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185E0354-7550-4E57-BA10-4B7067ACE0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185E0354-7550-4E57-BA10-4B7067ACE0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185E0354-7550-4E57-BA10-4B7067ACE0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185E0354-7550-4E57-BA10-4B7067ACE0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8E1823-7AEA-4541-B8F0-896372FC1523}
+	EndGlobalSection
+EndGlobal
